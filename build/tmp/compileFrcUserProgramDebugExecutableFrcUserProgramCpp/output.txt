@@ -1,0 +1,10 @@
+See file:///C:/Users/npodr/Documents/FRC/MecanumDrive/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling AutonomousCommand.cpp successful.
+
+compiling OI.cpp successful.
+
+compiling MainDrive.cpp successful.
+
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/npodr/Documents/FRC/MecanumDrive/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
